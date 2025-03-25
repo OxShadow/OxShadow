@@ -9,12 +9,11 @@
     </tr>
 </table>
 
-- 微信公众号：樱花庄的本间白猫	<img align='right' src="./assets/wx.png" width="300">
-- 个人博客：https://y.shironekosan.cn
-- My E-Mail：shironekosan@duck.com
+- 微信公众号：shadowsec <img align='right' src="./assets/wx.png" width="300">
+- My E-Mail：shshadow0101@gmail.com
 
 <table>
   <tr>
-    <td>🥰恭喜您成为第<img src="https://profile-counter.glitch.me/honmashironeko/count.svg" alt="" />位访客，感谢您的关注和支持~😍</td>
+    <td>🥰恭喜您成为第<img src="https://profile-counter.glitch.me/Shad0wAgent/count.svg" alt="" />位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
