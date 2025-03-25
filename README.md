@@ -9,7 +9,7 @@
     </tr>
 </table>
 
-- 微信公众号：shadowsec <img align='right' src="./assert/wx.png" width="300">
+- 微信公众号：shadowsec<img align='right' src="./assert/wx.png" width="400">
 - My E-Mail：shshadow0101@gmail.com
 
 <table>
