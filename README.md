@@ -11,7 +11,7 @@
 
 - 微信公众号：shadowsec <img align='right' src="./assert/wx.png" width="350">
 - My E-Mail：shshadow0101@gmail.com
-
+- EU Hall of Fame Member
 <table>
   <tr>
     <td>🥰恭喜您成为第<img src="https://profile-counter.glitch.me/Shad0wAgent/count.svg" alt="" />位访客，感谢您的关注和支持~😍</td>
